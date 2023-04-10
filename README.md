@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
-<!--
-**Dziero/dziero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ㅤ<br />
 
-Here are some ideas to get you started:
+## 🤓 Stuff i know
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,bots,github,vscode)
+ㅤㅤ<br /><br />
+## 🧠 Learning 
+![My Skills](https://skillicons.dev/icons?i=vue,ts,lua,styledcomponents)
+ㅤㅤ<br /><br />
+## Stats 🤷 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dziero&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
