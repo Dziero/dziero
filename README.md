@@ -2,7 +2,6 @@
 <p align="right">
   <img width="500" src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=900&size=35&pause=1000&random=false&lines=Hello%2C+world%21%F0%9F%91%8B" alt="Typing Animation" />
 </p>
-<br />
   
   <h2 align="center">About Me</h2>
     <h3 align="center"> 
