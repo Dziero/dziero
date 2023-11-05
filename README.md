@@ -1,8 +1,9 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dziero.Dziero" alt="Visitors"/>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=900&size=30&pause=1000&random=false&width=435&lines=Hi%2C+there%F0%9F%91%8B" alt="Typing Animation" />
-  </p>
-  <hr />
+<p align="right">
+  <img width="500" src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=900&size=35&pause=1000&random=false&lines=Hello%2C+world%21%F0%9F%91%8B" alt="Typing Animation" />
+</p>
+<br />
+  
   <h2 align="center">About Me</h2>
     <h3 align="center"> 
     🌱 I’m currently learning Tailwind, React Native, and Next.js<br/>
@@ -18,7 +19,6 @@
     </a>
   </p>
   <br />
-  <hr />
   
   <h2 align="center">Languages, Frameworks, and Tools</h2>
   <p align="center">
@@ -28,7 +28,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br />
   </p>
   <br />
-  <hr />
   
   <h2 align="center">GitHub Stats</h2>
   <p align="center">
